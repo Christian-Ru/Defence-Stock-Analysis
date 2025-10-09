@@ -1,6 +1,6 @@
 ## Defence Stock Analysis: Impact of the Ukraine Invasion
 
-### 📘 Project Overview
+### Project Overview
 
 This project analyzes how the stock prices of major **European defence companies** evolved before and after Russia’s invasion of Ukraine in February 2022.
 It compares their performance to the **Euro Stoxx 600** benchmark to assess how the geopolitical shock influenced the European defence sector.
@@ -9,13 +9,13 @@ The analysis was conducted using **Python**, **pandas**, and **matplotlib** with
 
 ---
 
-### 🧠 Objective
+### Objective
 
 To evaluate how the Russian invasion of Ukraine affected European defence stocks, using historical price data to identify performance and volatility shifts.
 
 ---
 
-### 🧩 Data & Tools
+### Data & Tools
 
 * **Data Source:** Yahoo Finance (`yfinance`)
 * **Companies Analyzed:**
@@ -46,7 +46,7 @@ To evaluate how the Russian invasion of Ukraine affected European defence stocks
 
 ---
 
-### 🚀 Results Summary
+### Results Summary
 
 * **Rheinmetall (Germany)** and **Leonardo (Italy)** recorded the strongest post-invasion gains, reflecting rising European defence budgets.
 * **Airbus** and **Safran** remained relatively stable, reflecting diversified exposure to civil aviation.
@@ -54,7 +54,7 @@ To evaluate how the Russian invasion of Ukraine affected European defence stocks
 
 ---
 
-## 💻 How to Run
+### How to Run
 
 1. Clone this repository:
 
@@ -74,7 +74,7 @@ To evaluate how the Russian invasion of Ukraine affected European defence stocks
 
 ---
 
-## 🧩 Potential Next Steps
+### Potential Next Steps
 
 * Add interactive visualizations (e.g. Streamlit or Plotly)
 * Expand to include U.S. defence contractors for cross-region comparison
