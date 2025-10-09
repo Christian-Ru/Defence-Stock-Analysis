@@ -74,7 +74,7 @@ To evaluate how the Russian invasion of Ukraine affected European defence stocks
 
 ---
 
-## 🧩 Next Steps
+## 🧩 Potential Next Steps
 
 * Add interactive visualizations (e.g. Streamlit or Plotly)
 * Expand to include U.S. defence contractors for cross-region comparison
@@ -82,7 +82,4 @@ To evaluate how the Russian invasion of Ukraine affected European defence stocks
 
 ---
 
-## 📫 Contact
 
-**Author:** Christian R.
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or reach out via GitHub for feedback and collaboration.
